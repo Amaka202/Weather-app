@@ -1,3 +1,5 @@
+View here : https://coolweatherapp.netlify.app/
+
 A Weather App built with React and OpenWeatherapp API. The App is used to know the weather condition of a Country or a City in real time. Type in the name of a Country or City in the search bar to know about the weather. Also the background image updates accordingly according to the results of the search.
 
 
